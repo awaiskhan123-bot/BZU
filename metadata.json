@@ -1,0 +1,6 @@
+{
+  "name": "University AI Assistant",
+  "description": "Official intelligent university assistant providing verified answers on admissions, tuition fees, academic calendars, degree programs, scholarships, and campus facilities backed by institutional knowledge and RAG document grounding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
